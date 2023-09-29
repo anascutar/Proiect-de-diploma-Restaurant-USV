@@ -1,2 +1,2 @@
 # Proiect-de-diploma-Restaurant-USV
-Sistem de comenzi online pentru restaurantul USV.
+Sistem de comenzi online pentru restaurantul USV, constituit de o platforma web destinata utilizatorilor de tip administrator+operator si o aplicatie mobile destinata utilizatorilor de tip clienti ai universitatii. Platforma web a fost realizata cu ReactJS si Axios, iar aplicatia mobile cu React-Native si Express. Pe partea de back-end am folosit ca limbaj de programare JavaSpringBot. Pentru server am folosit NodeJS, iar pentru realizarea baza de date MySQL. 
