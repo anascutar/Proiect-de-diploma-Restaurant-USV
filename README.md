@@ -8,3 +8,6 @@ Sistem de comenzi online pentru restaurantul USV, constituit de o platforma web 
 ![3](https://github.com/anascutar/Proiect-de-diploma-Restaurant-USV/assets/84850587/4f4483bd-ee8c-469c-a2f7-ce9be410d088)
 ![4](https://github.com/anascutar/Proiect-de-diploma-Restaurant-USV/assets/84850587/19487d65-dc52-45f3-b010-8722b155b443)
 ![5](https://github.com/anascutar/Proiect-de-diploma-Restaurant-USV/assets/84850587/bd266c77-1b8d-4351-a435-ff9ad26aaf0e)
+![1a](https://github.com/anascutar/Proiect-de-diploma-Restaurant-USV/assets/84850587/53f974a5-43ef-4029-80e4-549fc1ea18fd)
+![2a](https://github.com/anascutar/Proiect-de-diploma-Restaurant-USV/assets/84850587/ed774ff8-7747-419f-9c2f-0aa61a40ced3)
+![o1](https://github.com/anascutar/Proiect-de-diploma-Restaurant-USV/assets/84850587/7a4ec188-f593-4173-9109-d766e7171c13)
